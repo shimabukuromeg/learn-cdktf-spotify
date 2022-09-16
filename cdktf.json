@@ -3,7 +3,9 @@
   "app": "npx ts-node main.ts",
   "projectId": "c29ed15a-6eb4-4c2d-9936-b756ac8c95f0",
   "sendCrashReports": "true",
-  "terraformProviders": [],
+  "terraformProviders": [
+    "conradludgate/spotify@~> 0.2"
+  ],
   "terraformModules": [],
   "context": {
     "excludeStackIdFromLogicalIds": "true",
