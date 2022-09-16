@@ -21,7 +21,8 @@
   },
   "dependencies": {
     "cdktf": "^0.12.2",
-    "constructs": "^10.1.104"
+    "constructs": "^10.1.104",
+    "dotenv": "^16.0.2"
   },
   "devDependencies": {
     "@types/jest": "^29.0.3",
